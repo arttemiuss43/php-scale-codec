@@ -10,7 +10,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=8.0",
-    "bitwasp/buffertools": "dev-master",
+    "bitwasp/buffertools": "^0.5",
     "ext-gmp": "*",
     "ext-json": "*",
     "ext-sodium": "*",
